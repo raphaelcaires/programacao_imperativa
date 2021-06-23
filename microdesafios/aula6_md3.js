@@ -1,3 +1,5 @@
+/* Crie uma tabuada utilizando o "for". */
+
 console.log("Tabuada:")
 
 for (i = 1; i<=10; i++) {

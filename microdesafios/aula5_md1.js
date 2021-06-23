@@ -1,3 +1,8 @@
+/* Crie um array que contenha nomes de produtos para compra.
+Exiba no console os resultados das funções relacionadas aos arrays:
+"Join", "Pop", "Push", "Shift" e "Unshift".
+Escreva com suas palavras, o que cada função realiza. */
+
 let listaDeCompras = ["pão","manteiga","café"]
 
 console.log("O método .join() junta os elementos do array usando um separador escolhido. Exemplo:")
