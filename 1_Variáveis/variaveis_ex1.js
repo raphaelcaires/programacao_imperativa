@@ -1,1 +1,3 @@
-console.log("Olá Mundo!");
+/* Exiba na tela "Olá, mundo!" */
+
+console.log("Olá, Mundo!");
