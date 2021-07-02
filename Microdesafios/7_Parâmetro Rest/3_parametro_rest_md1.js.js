@@ -1,5 +1,5 @@
 /* Crie uma função maiorNumero() que receba "N" parâmetros
-E retorne o menor número entre eles, utilizando a função Math.min(). */
+E retorne o maior número entre eles, utilizando a função Math.max(). */
 
 let maiorNumero = (...numero) => Math.max(...numero)
 
